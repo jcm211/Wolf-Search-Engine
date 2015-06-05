@@ -9,7 +9,7 @@ class WSE{//One instance per search engine
 	private $_results;
 	private $_weights;
 	private $_filters;
-	private $execTime;
+	private $_execTime;
 	
 	//Filters
 	public $filter_whitespaces;
