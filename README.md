@@ -69,7 +69,7 @@ It is possible to add filters to the search engine.
 These filters act to the input string of the search function before any database interaction.
 
 #### 3.1. Using Filters
-You can add a filter using `WSE::addLikes($filter)` method.
+You can add a filter using `WSE::addFilter($filter)` method.
 In the version 1.0.0, WSE only provides you one filter: **the whitespace filter**
 You'll find this filter as `$engine->filter_whitespaces`.
 
