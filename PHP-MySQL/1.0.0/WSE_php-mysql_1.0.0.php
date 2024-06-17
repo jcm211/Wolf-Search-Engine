@@ -1,4 +1,4 @@
-<?php /*Wolf Database Search Engine version 1.0.0 ©Pierre Tassel,2015
+<?php /*Wolf Database Search Engine version 1.0.0 ©James Morris,2024
 	Rdistributable under the GNU License v2.0
 	Permits creating a custom search engine easily and quickly
 */
